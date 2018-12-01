@@ -1,2 +1,2 @@
-puts "Hello World from Ruby!"
+puts "Hello World from python!"
 puts $stdin.read
